@@ -15,10 +15,10 @@ Use Cases:
 2.	Login: After creating an account, members can log in.
 3.	Give Offering: Logged-in members can make financial contributions.
 4. 	View Contributions: Logged-in members can view their contribution history.
-<br>
+
 ## Collaborative diagram
 ![collaborative](https://github.com/kayikalvin/usecase-activity-collaborative-diagrams/blob/main/imgs/activity.drawio.png)
-<br>
+
 ### Objects:
 1.	Church Member
 2.	Account Creation Module
@@ -27,7 +27,7 @@ Use Cases:
 5.	Payment Processor
 6.	Contribution Database
 
-<br>
+
 ## Activity diagram
 ![activity](https://github.com/kayikalvin/usecase-activity-collaborative-diagrams/blob/main/imgs/activity.drawio.png)
 1.	Start
