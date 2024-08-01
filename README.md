@@ -33,8 +33,8 @@ Use Cases:
 1.	Start
 2.	Check if Account Exists
 -	If No:
-	Create Account
-	Input personal details
+--	Create Account
+--	Input personal details
 	Set up login credentials
 	Confirm account creation
 	Login to System
