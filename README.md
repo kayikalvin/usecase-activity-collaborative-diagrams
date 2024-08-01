@@ -34,13 +34,13 @@ Use Cases:
 2.	Check if Account Exists
 - If No:
 	- Create Account
-	- input personal details
-	- Set up login credentials
-	- Confirm account creation
+		- input personal details
+		- Set up login credentials
+		- Confirm account creation
 	- Login to System
-	- Input credentials
-	- Validate credentials
-	- Display dashboard
+		- Input credentials
+		- Validate credentials
+		- Display dashboard
 - If Yes:
 	- Login to System
 	- Input credentials
