@@ -1,9 +1,9 @@
-# usecase-activity-collaborative-diagrams
+# Usecase-Activity-Collaborative-diagrams
 The project consists of a use case,collaborative and activity diagram for the following scenario.
 ## scenario
 Design a use case,activity diagram and collaborative diagram.
 A system that can enable church members to login to an online service and give offerings and enable members see their contribution.
-### Use case diagram
+## Use case diagram
 ![usecase](https://github.com/kayikalvin/usecase-activity-collaborative-diagrams/blob/main/imgs/use%20case.drawio.png)
 <br>
 
@@ -15,8 +15,8 @@ Use Cases:
 2.	Login: After creating an account, members can log in.
 3.	Give Offering: Logged-in members can make financial contributions.
 4. 	View Contributions: Logged-in members can view their contribution history.
-
-### collaborative diagram
+<hr>
+## Collaborative diagram
 ![collaborative](https://github.com/kayikalvin/usecase-activity-collaborative-diagrams/blob/main/imgs/activity.drawio.png)
 <br>
 ### Objects:
@@ -27,8 +27,8 @@ Use Cases:
 5.	Payment Processor
 6.	Contribution Database
 
-
-### Activity diagram
+<hr>
+## Activity diagram
 ![activity](https://github.com/kayikalvin/usecase-activity-collaborative-diagrams/blob/main/imgs/activity.drawio.png)
 1.	Start
 2.	Check if Account Exists
