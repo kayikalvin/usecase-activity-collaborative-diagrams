@@ -15,7 +15,7 @@ Use Cases:
 2.	Login: After creating an account, members can log in.
 3.	Give Offering: Logged-in members can make financial contributions.
 4. 	View Contributions: Logged-in members can view their contribution history.
-
+<hr>
 ## Collaborative diagram
 ![collaborative](https://github.com/kayikalvin/usecase-activity-collaborative-diagrams/blob/main/imgs/activity.drawio.png)
 
@@ -27,7 +27,7 @@ Use Cases:
 5.	Payment Processor
 6.	Contribution Database
 
-
+<hr>
 ## Activity diagram
 ![activity](https://github.com/kayikalvin/usecase-activity-collaborative-diagrams/blob/main/imgs/activity.drawio.png)
 1.	Start
