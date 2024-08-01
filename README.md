@@ -32,20 +32,20 @@ Use Cases:
 ![activity](https://github.com/kayikalvin/usecase-activity-collaborative-diagrams/blob/main/imgs/activity.drawio.png)
 1.	Start
 2.	Check if Account Exists
--	If No:
-  - Create Account
-  - input personal details
-  - Set up login credentials
-  - Confirm account creation
+- If No:
+	- Create Account
+	- input personal details
+	- Set up login credentials
+	- Confirm account creation
 	- Login to System
 	- Input credentials
 	- Validate credentials
 	- Display dashboard
--	If Yes:
-	Login to System
-	Input credentials
-	Validate credentials
-	Display dashboard
+- If Yes:
+	- Login to System
+	- Input credentials
+	- Validate credentials
+	- Display dashboard
 3.	Select "Give Offering"
 -	Input donation amount
 -	Choose payment method
