@@ -43,9 +43,9 @@ Use Cases:
 		- Display dashboard
 - If Yes:
 	- Login to System
-	- Input credentials
-	- Validate credentials
-	- Display dashboard
+		- Input credentials
+		- Validate credentials
+		- Display dashboard
 3.	Select "Give Offering"
 -	Input donation amount
 -	Choose payment method
@@ -56,7 +56,7 @@ Use Cases:
 -	Update contribution record
 5.	Confirmation Message
 6.	Optionally, View Contributions
-o	Display contribution history
+- Display contribution history
 7.	End
 
 
