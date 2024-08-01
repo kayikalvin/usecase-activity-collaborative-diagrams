@@ -7,19 +7,19 @@ A system that can enable church members to login to an online service and give o
 ![usecase](https://github.com/kayikalvin/usecase-activity-collaborative-diagrams/blob/main/imgs/use%20case.drawio.png)
 <br>
 
-Actors:
-•	Church Member: A user who can create an account, log in, give offerings, and view contributions.
-•	System: The online service providing these functionalities.
+### Actors:
+1.	Church Member: A user who can create an account, log in, give offerings, and view contributions.
+2.	System: The online service providing these functionalities.
 Use Cases:
-•	Create Account: Church members who don’t have an account can create one.
-•	Login: After creating an account, members can log in.
-•	Give Offering: Logged-in members can make financial contributions.
-•	View Contributions: Logged-in members can view their contribution history.
+1.	Create Account: Church members who don’t have an account can create one.
+2.	Login: After creating an account, members can log in.
+3.	Give Offering: Logged-in members can make financial contributions.
+4. 	View Contributions: Logged-in members can view their contribution history.
 
 ### collaborative diagram
 ![collaborative](https://github.com/kayikalvin/usecase-activity-collaborative-diagrams/blob/main/imgs/activity.drawio.png)
 <br>
-Objects:
+### Objects:
 1.	Church Member
 2.	Account Creation Module
 3.	Login System
