@@ -5,9 +5,58 @@ Design a use case,activity diagram and collaborative diagram.
 A system that can enable church members to login to an online service and give offerings and enable members see their contribution.
 ### Use case diagram
 ![usecase](https://github.com/kayikalvin/usecase-activity-collaborative-diagrams/blob/main/imgs/use%20case.drawio.png)
+<br>
+
+Actors:
+•	Church Member: A user who can create an account, log in, give offerings, and view contributions.
+•	System: The online service providing these functionalities.
+Use Cases:
+•	Create Account: Church members who don’t have an account can create one.
+•	Login: After creating an account, members can log in.
+•	Give Offering: Logged-in members can make financial contributions.
+•	View Contributions: Logged-in members can view their contribution history.
 
 ### collaborative diagram
 ![collaborative](https://github.com/kayikalvin/usecase-activity-collaborative-diagrams/blob/main/imgs/activity.drawio.png)
+<br>
+Objects:
+1.	Church Member
+2.	Account Creation Module
+3.	Login System
+4.	Offering Module
+5.	Payment Processor
+6.	Contribution Database
+
 
 ### Activity diagram
 ![activity](https://github.com/kayikalvin/usecase-activity-collaborative-diagrams/blob/main/imgs/activity.drawio.png)
+1.	Start
+2.	Check if Account Exists
+o	If No:
+	Create Account
+	Input personal details
+	Set up login credentials
+	Confirm account creation
+	Login to System
+	Input credentials
+	Validate credentials
+	Display dashboard
+o	If Yes:
+	Login to System
+	Input credentials
+	Validate credentials
+	Display dashboard
+3.	Select "Give Offering"
+o	Input donation amount
+o	Choose payment method
+o	Confirm payment
+4.	Process Payment
+o	Validate payment details
+o	Process transaction
+o	Update contribution record
+5.	Confirmation Message
+6.	Optionally, View Contributions
+o	Display contribution history
+7.	End
+
+
