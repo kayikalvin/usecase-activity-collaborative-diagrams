@@ -17,6 +17,7 @@ Use Cases:
 4. 	View Contributions: Logged-in members can view their contribution history.
 ---
 ## Collaborative diagram
+***
 ![collaborative](https://github.com/kayikalvin/usecase-activity-collaborative-diagrams/blob/main/imgs/activity.drawio.png)
 
 ### Objects:
@@ -29,6 +30,7 @@ Use Cases:
 
 ---
 ## Activity diagram
+***
 ![activity](https://github.com/kayikalvin/usecase-activity-collaborative-diagrams/blob/main/imgs/activity.drawio.png)
 1.	Start
 2.	Check if Account Exists
